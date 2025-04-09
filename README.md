@@ -29,7 +29,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Design comprehensive Corporate Cybersecurity Program using the NIST CSF 2.0 Framework](https://github.com/MarcRabet26/Governance-Risk-and-Compliance/tree/main)**
 
 ## ⚠️ Playbooks
-- **[Phishing Email Alerts Playbook](https://github.com/mudendahandongwe/Phishing-Email-Alert-Playbook)**
+- **[Phishing Email Alerts Playbook](https://github.com/MarcRabet26/Phishing-Email-Alert-Playbook/tree/main)**
 - **[Brute Force Analysis Playbook](https://github.com/mudendahandongwe/Brute-Force-Analysis)**
 - **[Malware Investigation Playbook](https://github.com/mudendahandongwe/Malware-Investigation)**
 <hr/>
