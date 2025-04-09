@@ -27,7 +27,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 👨‍💻 Network Intrusion & Sniffing
 
-- **[Network Intrusion & Sniffing](https://github.com/mudendahandongwe/attack-detect-with-wazuh)**
+- **[Network Intrusion & Sniffing](https://github.com/MarcRabet26/Network-Intrusion-and-Sniffing)**
 
 ## 🚨 Governance, Risk and Compliance Capstone Project
 - **[Design comprehensive Corporate Cybersecurity Program using the NIST CSF 2.0 Framework](https://github.com/MarcRabet26/Governance-Risk-and-Compliance/tree/main)**
