@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 👨‍💻 SOC Honeynet in Azure
 
-- **[SOC Honeynet in Azure](https://github.com/mudendahandongwe/SOC-Honeynet-in-Azure)**
+- **[SOC Honeynet in Azure](https://github.com/MarcRabet26/SOC-Honeynet-in-Azure/tree/main)**
 
 ## 🚨 Splunk, Active Directory & Atomic Red Team Lab
 
