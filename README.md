@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Splunk, Active Directory & Atomic Red Team Lab
 
-- **[Splunk, Active Directory](https://github.com/mudendahandongwe/Splunk-Active-Directory)**
+- **[Splunk, Active Directory](https://github.com/MarcRabet26/Splunk-Active-Directory/tree/main)**
 
 
 ## 👨‍💻 Attacks & Detection with Wazuh
