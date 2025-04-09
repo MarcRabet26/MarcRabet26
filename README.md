@@ -31,7 +31,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Playbooks
 - **[Phishing Email Alerts Playbook](https://github.com/MarcRabet26/Phishing-Email-Alert-Playbook/tree/main)**
 - **[Brute Force Analysis Playbook](https://github.com/MarcRabet26/Brute-Force-Analysis/tree/main)**
-- **[Malware Investigation Playbook](https://github.com/mudendahandongwe/Malware-Investigation)**
+- **[Malware Investigation Playbook](https://github.com/MarcRabet26/Malware-Investigation/tree/main)**
 <hr/>
 
 ## 🤳 Connect With Me
